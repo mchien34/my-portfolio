@@ -1,28 +1,22 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/cv.png",
+            "title": "My Portfolio",
+            "description": "React, JSX, SCSS",
+            "url": "https://radiant-genie-5ebf37.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/music-player.png",
+            "title": "Music Player",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://gregarious-starburst-f160c0.netlify.app"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/netflix.png",
+            "title": "Netflix Clone",
+            "description": "React, Tailwind, Firebase",
+            "url": "https://storied-liger-049a7c.netlify.app"
         }
     ]
 }
